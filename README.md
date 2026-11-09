@@ -20,4 +20,4 @@ PHP 8 · Laravel 9–12 · MySQL · PostgreSQL · Redis · Horizon · Docker · 
 
 Most of my work is for clients and employers, so it lives in private repositories and only a slice of it shows in the contribution graph.
 
-LinkedIn: <your link>
+LinkedIn: https://www.linkedin.com/in/mohamed-shawky-88707326a/
